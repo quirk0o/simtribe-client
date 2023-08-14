@@ -1,0 +1,8 @@
+query legacies {
+  legacies {
+    id
+    name
+    createdAt
+    updatedAt
+  }
+}
